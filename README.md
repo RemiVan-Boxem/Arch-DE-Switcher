@@ -1,1 +1,1 @@
-# Arch Desktop Environnement Switcher
+# Arch Desktop Environment Switcher
