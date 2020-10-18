@@ -1,2 +1,2 @@
-sudo pacman -Syu gdm
-sudo systemctl enable gdm.service
+sudo pacman -Syu --needed gdm
+sudo systemctl enable --now gdm.service
