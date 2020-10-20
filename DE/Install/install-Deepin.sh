@@ -1,1 +1,1 @@
-sudo pacman -Syu deepin
+sudo pacman -Syu deepin deepin-extra

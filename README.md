@@ -22,8 +22,6 @@ https://lxde.org/ || GTK 2: lxde, GTK 3: lxde-gtk3
 https://lxqt.github.io/ || lxqt
 * MATE — Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE started as a fork of GNOME 2, but now uses GTK 3.
 https://mate-desktop.org/ || mate
-* Sugar — The Sugar Learning Platform is a computer environment composed of Activities designed to help children from 5 to 12 years of age learn together through rich-media expression. Sugar is the core component of a worldwide effort to provide every child with the opportunity for a quality education — it is currently used by nearly one-million children worldwide speaking 25 languages in over 40 countries. Sugar provides the means to help people lead fulfilling lives through access to a quality education that is currently missed by so many.
-https://sugarlabs.org/ || sugar + sugar-fructose
 * UKUI — UKUI is a lightweight Linux desktop environment, developed based on GTK and Qt. UKUI is the default desktop environment for Ubuntu kylin.
 https://www.ukui.org/ || ukui
 * Xfce — Xfce embodies the traditional UNIX philosophy of modularity and re-usability. It consists of a number of components that provide the full functionality one can expect of a modern desktop environment, while remaining relatively light. They are packaged separately and you can pick among the available packages to create the optimal personal working environment.
