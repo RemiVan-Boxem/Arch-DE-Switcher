@@ -1,5 +1,6 @@
 import os
 import re
+from installer import Installer
 
 
 __all__ = ("DEManager",)
